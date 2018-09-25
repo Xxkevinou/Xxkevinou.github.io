@@ -5,4 +5,4 @@ function xxvids() {
 	}
 	
 
-setTimeout(xxvids , 2000);
+setTimeout(xxvids , 10000);
